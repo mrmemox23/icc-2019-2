@@ -1,6 +1,8 @@
 # lcc-2019-2
 GUILLERMO ARTURO RUIZ CARRANZA
+
 HOLA MUNDO
+
 este es un proyecto mio 
 
 
